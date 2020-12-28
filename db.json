@@ -1,4 +1,11 @@
 {
-  "name": "Sara",
-  "age": 23
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
