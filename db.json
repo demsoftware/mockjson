@@ -1,11 +1,11 @@
 {
-  "posts": [
+   "participants": [
     {
-      "id": 1,
-      "title": "hello"
+        "name": "Sara",
+        "age": 23,
+        "gender": "Female",
+        "department": "History",
+        "car": "Honda"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
